@@ -1,6 +1,6 @@
 import openai
 
-# Initialize OpenAI API (replace 'api-9908112' with your actual OpenAI API key)
+# Initialize OpenAI API (replace 'api-9908112' or with your actual OpenAI API key)
 openai.api_key = "your-api-key"
 
 def chat_with_ai(prompt):
